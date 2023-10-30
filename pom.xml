@@ -9,7 +9,7 @@
 	<name>Mule maven-project Application</name>
 
 	<properties>
-		<activemq-client.version>5.15.11</activemq-client.version>
+		<activemq-client.version>5.15.16</activemq-client.version>
 		<activemq-broker.version>5.15.11</activemq-broker.version>
 		<activemq-kahadb-store.version>5.15.11</activemq-kahadb-store.version>
 
